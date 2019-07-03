@@ -1,0 +1,13 @@
+Domain Name: demotutorials.xyz
+Cpanel: www.demotutorials.xyz:2083
+
+Username: demotuto
+Password: Support@1221
+
+67.225.245.110
+
+Database
+
+demotuto_test
+demotuto_user1
+Support@1221
